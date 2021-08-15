@@ -1,0 +1,42 @@
+.regForm {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 0px;
+  width: 500px;
+  height: 300px;
+  margin-bottom: 0px;
+  /* border: 1px solid black;
+  border-radius: 5%; */
+  padding: 10px;
+  font-family: cursive;
+}
+
+.regForm input {
+  display: inline-block;
+  font-size: 23px;
+}
+#sub {
+  margin-top: 20px;
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 15%;
+}
+#res {
+  margin-top: 20px;
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 15%;
+}
+h1 {
+  margin: 0px;
+  font-family: monospace;
+  font-size: 40px;
+  background-color: rgb(56, 53, 53);
+  color: white;
+  padding: 10px;
+}
+#downlogo {
+  font-size: 70px;
+  font-family: monospace;
+  margin: 0px;
+}
